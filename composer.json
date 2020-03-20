@@ -1,0 +1,17 @@
+{
+    "name": "aquelando/wp-comment-walker",
+    "description": "A customized comment walker for Wordpress.",
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marcos Chavarría Teijeiro",
+            "email": "chavarria1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "files": ["class-comment-walker.php"]
+    }
+}
